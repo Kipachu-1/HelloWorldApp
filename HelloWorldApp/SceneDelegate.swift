@@ -1,10 +1,3 @@
-//
-//  SceneDelegate.swift
-//  HelloWorldApp
-//
-//  Created by FIskalinov on 20.09.2024.
-//
-
 import UIKit
 
 class SceneDelegate: UIResponder, UIWindowSceneDelegate {
